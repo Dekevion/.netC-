@@ -1,0 +1,13 @@
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\bin\Debug\netcoreapp3.1\NetConsole.exe
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\bin\Debug\netcoreapp3.1\NetConsole.deps.json
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\bin\Debug\netcoreapp3.1\NetConsole.runtimeconfig.json
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\bin\Debug\netcoreapp3.1\NetConsole.runtimeconfig.dev.json
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\bin\Debug\netcoreapp3.1\NetConsole.dll
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\bin\Debug\netcoreapp3.1\NetConsole.pdb
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\obj\Debug\netcoreapp3.1\NetConsole.csprojAssemblyReference.cache
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\obj\Debug\netcoreapp3.1\NetConsole.csproj.CoreCompileInputs.cache
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\obj\Debug\netcoreapp3.1\NetConsole.AssemblyInfoInputs.cache
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\obj\Debug\netcoreapp3.1\NetConsole.AssemblyInfo.cs
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\obj\Debug\netcoreapp3.1\NetConsole.dll
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\obj\Debug\netcoreapp3.1\NetConsole.pdb
+C:\Users\dekev\OneDrive\Desktop\Code\C\.netC-\NetConsole\NetConsole\obj\Debug\netcoreapp3.1\NetConsole.genruntimeconfig.cache
